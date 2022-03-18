@@ -15,7 +15,7 @@ class Dog : IAnimal
 {
     public void GetSounds()
     {
-        Console.WriteLine("woofwoof");
+        Console.WriteLine("woofwoofwoofwoof");
     }
 }
 
